@@ -6,3 +6,5 @@ This repository contains the code for Open Source Technologies Lab. It is a cour
 | Week No | Topic |
 | --------|-------|
 | [Week 3](Week3)| Shell Scripting 1|
+| --------|-------|
+| [Week 4](Week4)| Shell Scripting 2|
